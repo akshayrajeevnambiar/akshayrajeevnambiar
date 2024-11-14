@@ -74,6 +74,6 @@ Right now, I’m diving deep into AI/ML to unlock the potential of data-driven d
 ### 📊 **GitHub Stats**  
 
 <p align="center" style="display: flex; flex-direction: row; gap: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayrajeevnambiar&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayrajeevnambiar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayrajeevnambiar&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayrajeevnambiar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />  
 </p> 

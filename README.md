@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEe99HPncisdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715015941924?e=1736985600&v=beta&t=6e25_RroBnoOObQqso2xgKy4q2EZlsy_B8T1KbEgEAQ" alt="Header Image" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHmKUfQrkQb_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732302434859?e=1737590400&v=beta&t=q1Wai9G2qDiZORBclOOOTKgE-TndBPieZw-ZgcKQo44" alt="Header Image" width="100%" />
 <h1 align="center">Hi 👋, I'm Akshay Rajeev Nambiar</h1>  
 <h3 align="center">⚡ Passionate Coder | Relentless Problem Solver | Tech Enthusiast ⚡</h3>  
 
